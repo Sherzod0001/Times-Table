@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Runtime.Intrinsics.Arm;
-Console.WriteLine("Bu dastur siz kiritgan raqamlarning oralig'idagi karra jadvalini chiqarib beradi : (3 6)");
+Console.WriteLine("Bu dastur siz kiritgan raqamlarning oralig'idagi karra jadvalini chiqarib beradi ! : (3 6)");
 int start = Convert.ToInt32(Console.ReadLine());
 int finish = Convert.ToInt32(Console.ReadLine());
 
